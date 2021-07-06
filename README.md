@@ -4,4 +4,4 @@ Made in PHP Symfony 4 with PostgreSQL PDO and native SQL.
 
 1 - composer install <br>
 2 - php bin/console doctrine:database:create <br>
-2 - php bin/console doctrine:migrations:migrate
+2 - php bin/console doctrine:migrations:migrate import also fixtures in migrations file
